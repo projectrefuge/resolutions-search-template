@@ -1,0 +1,2 @@
+# resolutions-search-template
+Initialize
